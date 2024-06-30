@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomiclabs/hardhat-ethers": "npm:hardhat-deploy-ethers@^0.3.0-beta.13",
+    "autoprefixer": "^10.4.19",
+    "hardhat": "^2.12.6",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "@metamask/providers": "^17.1.0",
+    "ethers": "^6.13.1",
+    "next": "^14.2.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
