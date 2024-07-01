@@ -1,4 +1,4 @@
-# Lottery App Contract
+#  Test Your Luck Contract
 
 In this Solidity program, I've created a stake mining-inspired gambling app where users can stake cryptocurrency to participate in lottery rounds. Each stake represents a ticket for a chance to win a jackpot, with winning odds based on the amount staked. Users can monitor ongoing lotteries, view historical results, and withdraw their winnings.
 
@@ -133,7 +133,7 @@ After cloning the github, you will want to do the following to get the code runn
 5. Back in the first terminal, type npm run dev to launch the front-end.
 
 After this, the project will be running on your localhost. 
-Typically at http://localhost:3000/
+Typically at https://3000-mannatgupta-smartcontra-2vfppbtpr2x.ws-us114.gitpod.io/
 
 
 ## License
