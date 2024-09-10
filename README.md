@@ -6,6 +6,12 @@ In this Solidity program, I've created a stake mining-inspired gambling app wher
 
 This application provides seamless integration with MetaMask for wallet connectivity, enabling users to securely deposit cryptocurrency. Players engage in an exciting game where the objective is to avoid mines to double their deposited amount, while hitting a mine results in the loss of all deposited funds. Alongside the game, the app includes a dynamic leaderboard that showcases top performers based on their winnings. Additionally, a comprehensive history function allows users to review their gameplay outcomes, transaction details, and overall performance over time.
 
+## Video Tutorial
+
+For a detailed walkthrough of the code and how the project works, check out the [Loom video](
+https://www.loom.com/share/f4d6c012c2d9423489323983d955f9ad?sid=052486f2-4171-4fca-b7d9-827afc1a16fc).
+
+
 ## Getting Started
 
 ### Executing Program
@@ -133,6 +139,9 @@ After cloning the github, you will want to do the following to get the code runn
 5. Back in the first terminal, type npm run dev to launch the front-end.
 
 After this, the project will be running on your localhost. 
+
+## Thank You
+Thank you for checking out this project! If you found it helpful or interesting, please consider giving it a star on GitHub. Your support is greatly appreciated!
 Typically at https://3000-mannatgupta-smartcontra-2vfppbtpr2x.ws-us114.gitpod.io/
 
 
